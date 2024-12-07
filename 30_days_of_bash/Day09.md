@@ -56,7 +56,7 @@ Adding elements to an array:
 
 Removing elements from an array:
 
-    unset my_array
+    unset my_array[0]
 
 Copying an array:
 

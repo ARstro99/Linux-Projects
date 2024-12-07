@@ -30,7 +30,7 @@ Assigning values individually:
 Accessing a specific element:
 
     
-    echo ${my_array}
+    echo ${my_array[1]}
 
 Accessing all elements:
 

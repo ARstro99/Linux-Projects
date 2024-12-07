@@ -21,9 +21,9 @@ There are several ways to create arrays in Bash:
 Assigning values individually:
 
 
-    my_array="value1"
-    my_array="value2"
-    my_array="value3"
+    my_array[0]="value1"
+    my_array[1]="value2"
+    my_array[2]="value3"
 
 ### Accessing Array Elements
 

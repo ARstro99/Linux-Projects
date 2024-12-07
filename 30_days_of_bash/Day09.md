@@ -85,6 +85,7 @@ Using indices:
 
     
     declare -A assoc_array
+
     assoc_array[key1]="value1"
     assoc_array[key2]="value2"
     

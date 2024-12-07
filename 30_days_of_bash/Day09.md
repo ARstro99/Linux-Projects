@@ -11,7 +11,7 @@ There are several ways to create arrays in Bash:
 1. Explicit declaration:
    
 
-    declare -a my_array
+    declare -a my_array(value1 value2 value3)
 
  Assigning values directly:
 
